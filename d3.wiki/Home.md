@@ -1,5 +1,8 @@
-**D3.js** is a JavaScript library for manipulating documents based on data. **D3** helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to Document Object Model (DOM) manipulation.
+## Data-Driven Documents
 
+<p><a href="http://d3js.org"><img src="https://camo.githubusercontent.com/3da33aba96e13f6dd2c8b57141defdb53b6ca918/687474703a2f2f64336a732e6f72672f6c6f676f2e737667" align="left" hspace="10" vspace="6" data-canonical-src="http://d3js.org/logo.svg" style="max-width:100%;"></a></p>
+
+**D3**, short for Data-Driven Documents. **D3** helps you bring data to life, it uses **D3.js**, a JavaScript library for manipulating documents based on data. To view the collection of data visualizations created with D3 in SWIFT as well as examples from organizations around the world, check out the [Gallery](Gallery).
 
 
 ## Browser / Platform Support
