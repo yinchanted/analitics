@@ -1,6 +1,7 @@
 > [analytics.swift.com](Home) ▸ **Gallery**
 
-Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbostock](http://bl.ocks.org/mbostock). If you want to share an example and don't have your own hosting, consider using [Gist](http://gist.github.com) and [bl.ocks.org](http://bl.ocks.org). If you want to share or view live examples try [runnable.com](http://runnable.com/d3.js) or [vida.io](https://vida.io/explore).
+Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbostock](http://bl.ocks.org/mbostock). If you are having problem viewing the examples in IOD, you can also view the exampls below on [d3/wiki/Gallery](https://github.com/mbostock/d3/wiki/Gallery) on your personal computer.
+
 
 ## SWIFT D3s
 <table>
