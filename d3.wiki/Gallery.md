@@ -1,6 +1,6 @@
 > [analytics.swift.com](Home) ▸ **Gallery**
 
-Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbostock](http://bl.ocks.org/mbostock). If you are having problem viewing the examples in IOD, you can also view the exampls below on [d3/wiki/Gallery](https://github.com/mbostock/d3/wiki/Gallery) on your personal computer.
+Welcome to the **D3 gallery**! Do you know we are already using D3 in **SWIFT**? Interesting? Checkout the **Visual Index** to see more examples. And if you are really interested, there are even more examples available on [bl.ocks.org/mbostock](http://bl.ocks.org/mbostock). Note: If you are having problem viewing some of the examples in IOD, you can instead visit [d3/wiki/Gallery](https://github.com/mbostock/d3/wiki/Gallery) on your phone (iOS or Andriod) or on a computer that can directly connect to the internet. Have fun!
 
 
 ## SWIFT D3s
