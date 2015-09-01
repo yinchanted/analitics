@@ -6,8 +6,9 @@ Welcome to the **D3 gallery**! Do you know we are already using D3 in **SWIFT**?
 ## SWIFT D3s
 <table>
     <tr valign="top">
-        <td width="25%">VTC TechDay Stats<br><a href="http://marhx037/dailyjs-survey-sankey-diagrams"><img width="133" src="./ex/techday_sankey.png"></a></td>
-        <td width="25%">Service Management & Infrastructure<br><a href="http://10.8.161.249:8080/relations_chart/"><img width="133" src="./ex/relation_d3.PNG"></a></td>
+        <td width="25%">VTC TechDay attendence & interests Stats<br><a href="http://marhx037/dailyjs-survey-sankey-diagrams"><img width="133" src="./ex/techday_sankey.png"></a></td>
+        <td width="25%">Service Mgmt & Infra Relations Chart<br><a href="http://10.8.161.249:8080/relations_chart/"><img width="133" src="./ex/relation_d3.PNG"></a></td>
+        <td width="25%">Service Mgmt & Infra Org Chart<br><a href="http://10.8.161.249:8080/d3org_chart/"><img width="133" src="./ex/d3_infra_siddu.PNG"></a></td>
     </tr>
 </table>
 
